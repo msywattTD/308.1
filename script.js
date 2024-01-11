@@ -1,0 +1,1 @@
+const truth = "im ugly"
